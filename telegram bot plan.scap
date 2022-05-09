@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.2" ID="41799B77-FA2F-4069-8201-4CD632FFA3AA">
+    <Notes>
+        <Note ID="0" FontSize="28.0" Position="324.0,152.0" Width="192.0">
+            <Appearance></Appearance>
+            <String>Telegram-bot</String>
+            <ConnectedNoteIDs>1, 6, 9</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="497.0,109.0" Width="136.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>Need-To-Learn Things</String>
+            <ConnectedNoteIDs>0, 3, 10</ConnectedNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="571.0,208.0" Width="60.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>aiogram</String>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="607.0,140.0" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>async code</String>
+            <ConnectedNoteIDs>1-2, 4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="681.0,187.0" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>async parsing</String>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="212.0,200.0" Width="46.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668962 0.810287 0.895092</Border>
+                <Fill>0.743291 0.900319 0.994547</Fill>
+            </Appearance>
+            <String>Ideas</String>
+            <ConnectedNoteIDs>0, 7-8</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="39.0,192.0" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668962 0.810287 0.895092</Border>
+                <Fill>0.743291 0.900319 0.994547</Fill>
+            </Appearance>
+            <String>Twitch alerts</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="135.0,272.0" Width="151.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.668962 0.810287 0.895092</Border>
+                <Fill>0.743291 0.900319 0.994547</Fill>
+            </Appearance>
+            <String>To do list for my followers</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="427.795624,376.161194" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.894547 0.707772 0.715904</Border>
+                <Fill>0.993942 0.786413 0.795449</Fill>
+            </Appearance>
+            <String>Присобачить embedding от онлайн ML модели</String>
+            <ConnectedNoteIDs>0, 10</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="472.454132,251.362381" Width="145.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Обработка сообщений</String>
+            <ConnectedNoteIDs>1, 9</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0-2, 4, 6-8, 10</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="D4E46F16-9889-433E-B2BE-CC0ADF012243" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.668962 0.810287 0.895092</BorderColor>
+            <FillColor>0.743291 0.900319 0.994547</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="49734921-4250-4DEE-A677-5B302DA4440B" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.669404 0.885265 0.567007</BorderColor>
+            <FillColor>0.743783 0.983628 0.630008</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="3855FB4B-ACBF-4B08-A226-F2A6506E3FA7" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894547 0.707772 0.715904</BorderColor>
+            <FillColor>0.989115 0.814114 0.999483</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="6DDEB842-4402-44D3-8C4E-AD4545BE392B" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894547 0.707772 0.715904</BorderColor>
+            <FillColor>0.993942 0.786413 0.795449</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="D788B92D-4B24-497E-A53D-E949E04BB528" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.877748 0.828289 0.562126</BorderColor>
+            <FillColor>0.975275 0.920321 0.624585</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="48A76C42-D6B1-423B-B7E8-BF898B8C8A94" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985954 0.0 0.02694</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="D4CE9758-FE50-4C43-9F1C-681785DEB7D8" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999763 0.988395 0.949915</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+        <NoteXPadding>8.0</NoteXPadding>
+    </UISettings>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
